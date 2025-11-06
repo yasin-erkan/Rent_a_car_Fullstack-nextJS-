@@ -9,13 +9,17 @@ A professional, full-stack car rental application built with Next.js 14, React 1
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Preview
 
-> **Click to watch the full application demo:**
+![DriveWay Demo](./public/rent_a_car.gif)
 
-https://github.com/user-attachments/assets/your-video-id-here
-
-_Upload your demo video to GitHub and replace the URL above_
+> **Full application walkthrough showing:**
+>
+> - Browse cars with responsive design
+> - Search and filter functionality
+> - Car detail pages with image galleries
+> - Booking form and payment flow
+> - User authentication and reviews
 
 ---
 
